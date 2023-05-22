@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="SectorsAreCreated" xml:space="preserve">
+        <value>Sektörler başarıyla oluşturuldu.</value>
+    </data>
+    <data name="SectorsAreNotCreated" xml:space="preserve">
+        <value>Sektörler oluşturulamadı.</value>
+    </data>
+    <data name="TheSectorNamesAreAlreadyExist" xml:space="preserve">
+        <value>Sektör isimleri zaten var. ({0})</value>
+    </data>
+    <data name="SectorNameIsAlreadyExist" xml:space="preserve">
+        <value>Sektör adı zaten var. ({0})</value>
+    </data>
+    <data name="SectorIsNotFound" xml:space="preserve">
+        <value>Sektör bulunamadı.</value>
+    </data>
+    <data name="SectorIsNotUpdated" xml:space="preserve">
+        <value>Sektör güncellenemedi.</value>
+    </data>
+    <data name="SectorIsUpdated" xml:space="preserve">
+        <value>Sektör başarıyla güncellendi.</value>
+    </data>
+    <data name="SectorIsNotDeleted" xml:space="preserve">
+        <value>Sektör silinemedi.</value>
+    </data>
+    <data name="SectorIsDeleted" xml:space="preserve">
+        <value>Sektör başarıyla silindi.</value>
+    </data>
+    <data name="SectorsAreListed" xml:space="preserve">
+        <value>Sektörler listelendi.</value>
+    </data>
+    <data name="SectorIsBrought" xml:space="preserve">
+        <value>Sektör getirildi.</value>
+    </data>
+    <data name="SubstationNameIsAlreadyExist" xml:space="preserve">
+        <value>Şube adı zaten var.</value>
+    </data>
+    <data name="SubstationIsNotCreated" xml:space="preserve">
+        <value>Şube oluşturulamadı.</value>
+    </data>
+    <data name="SubstationIsCreated" xml:space="preserve">
+        <value>Şube başarıyla oluşturuldu.</value>
+    </data>
+    <data name="SubstationIsNotFound" xml:space="preserve">
+        <value>Şube bulunamadı.</value>
+    </data>
+    <data name="SubstationIsNotUpdated" xml:space="preserve">
+        <value>Şube güncellenemedi.</value>
+    </data>
+    <data name="SubstationIsUpdated" xml:space="preserve">
+        <value>Şube başarıyla güncellendi.</value>
+    </data>
+    <data name="TheUserIsAlreadyResposibleFromSubstation" xml:space="preserve">
+        <value>({0}) kullanıcısı zaten ({1}) şubesinden sorumlu.</value>
+    </data>
+    <data name="YouCanOnlyChooseOneSector" xml:space="preserve">
+        <value>Yalnızca bir tane sektör seçebilirsiniz.</value>
+    </data>
+    <data name="YouCanOnlyChooseOneResponsibleUser" xml:space="preserve">
+        <value>Yalnızca bir tane sorumlu kullanıcı seçebilirsiniz.</value>
+    </data>
+    <data name="UserIsNotAssignedToSubstation" xml:space="preserve">
+        <value>Kullanıcı belirtilen şubeye atanamadı.</value>
+    </data>
+    <data name="UserIsAssignedToSubstation" xml:space="preserve">
+        <value>Kullanıcı belirtilen şubeye başarıyla atandı.</value>
+    </data>
+    <data name="SubstationIsAlreadyHaveAResponsibleUser" xml:space="preserve">
+        <value>Şubenin zaten bir sorumlusu var.</value>
+    </data>
+    <data name="SubstationIsNotDeleted" xml:space="preserve">
+        <value>Şube silinemedi.</value>
+    </data>
+    <data name="SubstationIsDeleted" xml:space="preserve">
+        <value>Şube başarıyla silindi.</value>
+    </data>
+    <data name="SubstationsAreListed" xml:space="preserve">
+        <value>Şubeler başarıyla listelendi.</value>
+    </data>
+    <data name="SubstationsAreNotFound" xml:space="preserve">
+        <value>Şubeler bulunamadı.</value>
+    </data>
+    <data name="SubstationIsBrought" xml:space="preserve">
+        <value>Şube başarıyla getirildi.</value>
+    </data>
+    <data name="UserIsAlreadyHaveTheRoles" xml:space="preserve">
+        <value>Kullanıcı zaten bu rollere sahip.</value>
+    </data>
+    <data name="RolesAreNotAddedToTheUser" xml:space="preserve">
+        <value>Roller, seçilen kullanıcıya eklenemedi.</value>
+    </data>
+    <data name="RolesAreAddedToTheUser" xml:space="preserve">
+        <value>Roller, seçilen kullanıcıya başarıyla eklendi.</value>
+    </data>
+    <data name="RefreshTokenIsNotGenerated" xml:space="preserve">
+        <value>Yenileme tokeni oluşturulamadı.</value>
+    </data>
+    <data name="SectorsAreNotFound" xml:space="preserve">
+        <value>Sektörler bulunamadı.</value>
+    </data>
+    <data name="ResponsibleUserIsNotAddedToSubstation" xml:space="preserve">
+        <value>Sorumlu kullanıcı, şubeye eklenemedi.</value>
+    </data>
+    <data name="ResponsibleUserIsAddedToSubstation" xml:space="preserve">
+        <value>Sorumlu kullanıcı, şubeye başarıyla eklendi.</value>
+    </data>
+    <data name="TheSubstationIsAlreadyHaveTheSector" xml:space="preserve">
+        <value>Şube, zaten bu sektöre sahip. ({0})</value>
+    </data>
+    <data name="SectorIsNotAddedToSubstation" xml:space="preserve">
+        <value>Sektör, şubeye eklenemedi.</value>
+    </data>
+    <data name="SectorIsAddedToSubstation" xml:space="preserve">
+        <value>Sektör, şubeye başarıyla eklendi.</value>
+    </data>
+    <data name="UserLogIsCreated" xml:space="preserve">
+        <value>Kullanıcı logu başarıyla oluşturuldu.</value>
+    </data>
+    <data name="ProductNameIsAlreadyExist" xml:space="preserve">
+        <value>Ürün adı zaten var.</value>
+    </data>
+    <data name="ProductIsNotCreated" xml:space="preserve">
+        <value>Ürün oluşturulamadı.</value>
+    </data>
+    <data name="ProductIsCreated" xml:space="preserve">
+        <value>Ürün başarıyla oluşturuldu.</value>
+    </data>
+    <data name="ProductIsNotFound" xml:space="preserve">
+        <value>Ürün bulunamadı.</value>
+    </data>
+    <data name="ProductIsNotUpdated" xml:space="preserve">
+        <value>Ürün güncellenemedi.</value>
+    </data>
+    <data name="ProductIsUpdated" xml:space="preserve">
+        <value>Ürün başarıyla güncellendi.</value>
+    </data>
+    <data name="ProductIsNotDeleted" xml:space="preserve">
+        <value>Ürün silinemedi.</value>
+    </data>
+    <data name="ProductIsDeleted" xml:space="preserve">
+        <value>Ürün başarıyla silindi.</value>
+    </data>
+    <data name="TheProductAndSectorAlreadyRelated" xml:space="preserve">
+        <value>Ürün ile sektör zaten ilişkili.</value>
+    </data>
+    <data name="SectorsAreNotAddedToProduct" xml:space="preserve">
+        <value>Sektörler, ürüne eklenemedi.</value>
+    </data>
+    <data name="SectorsAreAddedToProduct" xml:space="preserve">
+        <value>Sektörler, ürüne başarıyla eklendi.</value>
+    </data>
+    <data name="ProductSectorsAreUpdated" xml:space="preserve">
+        <value>Ürünün sektörleri başarıyla güncellendi.</value>
+    </data>
+    <data name="ProductSectorsAreNotUpdated" xml:space="preserve">
+        <value>Ürünün sektörleri güncellenemedi.</value>
+    </data>
+    <data name="ProductSectorsAreNotFound" xml:space="preserve">
+        <value>Ürün ait sektörler bulunamadı.</value>
+    </data>
+    <data name="ProductSectorsAreListed" xml:space="preserve">
+        <value>Ürüne ait sektörler listelendi.</value>
+    </data>
+    <data name="InventoryDataIsNotCreated" xml:space="preserve">
+        <value>Envanter kaydı oluşturulamadı.</value>
+    </data>
+    <data name="InventoryDataIsCreated" xml:space="preserve">
+        <value>Envanter kaydı başarıyla oluşturuldu.</value>
+    </data>
+    <data name="TheSubstationIsNotYourResponsibility" xml:space="preserve">
+        <value>Bu şube, sizin sorumluluğunuzda değil.</value>
+    </data>
+    <data name="SubstationSectorsAreNotFound" xml:space="preserve">
+        <value>Şubenin sektörleri bulunamadı.</value>
+    </data>
+    <data name="ThisProductIsNotAvailableAtThisSubstation" xml:space="preserve">
+        <value>Bu ürün, bu şubede yok.</value>
+    </data>
+    <data name="SubstationMovementIsNotCreated" xml:space="preserve">
+        <value>Şube hareketi oluşturulamadı.</value>
+    </data>
+    <data name="SubstationMovementIsCreated" xml:space="preserve">
+        <value>Şube hareketi başarıyla oluşturuldu.</value>
+    </data>
+    <data name="SubstationMovementsAreListed" xml:space="preserve">
+        <value>Şube hareketleri listelendi.</value>
+    </data>
+    <data name="SubstationMovementsAreNotFound" xml:space="preserve">
+        <value>Şube hareketleri bulunamadı.</value>
+    </data>
+</root>

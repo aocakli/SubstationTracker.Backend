@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ctPc24aPqfaCqdwlfM1qWav1BpxRp27qt9rQsZqHE7I=",
+  "Source": "SubstationTracker.WebAPI",
+  "BasePath": "_content/SubstationTracker.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SubstationTracker.WebAPI/wwwroot",
+      "Source": "SubstationTracker.WebAPI",
+      "ContentRoot": "/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Presentation/SubstationTracker.WebAPI/wwwroot/",
+      "BasePath": "_content/SubstationTracker.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,1 @@
+﻿global using SubstationTracker.Application.Constants;

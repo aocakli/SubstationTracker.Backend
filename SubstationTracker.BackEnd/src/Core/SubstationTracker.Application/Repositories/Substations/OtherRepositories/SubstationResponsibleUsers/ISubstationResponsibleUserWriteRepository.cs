@@ -1,0 +1,9 @@
+﻿using SubstationTracker.Application.Repositories._Bases;
+using SubstationTracker.Domain.Concrete.Substations._Bases;
+using SubstationTracker.Domain.Concrete.Substations.OtherDomains.SubstationResponsibleUsers;
+
+namespace SubstationTracker.Application.Repositories.Substations.OtherRepositories.SubstationResponsibleUsers;
+
+public interface ISubstationResponsibleUserWriteRepository : IWriteRepositoryWithSoftDelete<SubstationResponsibleUser>
+{
+}

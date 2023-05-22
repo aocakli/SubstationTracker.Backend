@@ -1,0 +1,12 @@
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/bin/Debug/net6.0/SubstationTracker.Domain.deps.json
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/bin/Debug/net6.0/SubstationTracker.Domain.dll
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/bin/Debug/net6.0/SubstationTracker.Domain.pdb
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/SubstationTracker.Domain.csproj.AssemblyReference.cache
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/SubstationTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/SubstationTracker.Domain.AssemblyInfoInputs.cache
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/SubstationTracker.Domain.AssemblyInfo.cs
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/SubstationTracker.Domain.csproj.CoreCompileInputs.cache
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/SubstationTracker.Domain.dll
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/refint/SubstationTracker.Domain.dll
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/SubstationTracker.Domain.pdb
+/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/obj/Debug/net6.0/ref/SubstationTracker.Domain.dll

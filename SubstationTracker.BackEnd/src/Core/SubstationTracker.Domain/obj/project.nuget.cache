@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G75yyMs9f6CnUaOhL84WqiCWgxy0zMG8knfPTnaF0q3zozgUapMQbVgEWXj1+DebN+DRhf/9SeY6l4Y5EjpCnQ==",
+  "success": true,
+  "projectFilePath": "/Users/azizocakli/Avansas Project/SubstationTrackerApp/SubstationTracker.BackEnd/src/Core/SubstationTracker.Domain/SubstationTracker.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/azizocakli/.nuget/packages/mongodb.bson/2.18.0/mongodb.bson.2.18.0.nupkg.sha512",
+    "/Users/azizocakli/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
